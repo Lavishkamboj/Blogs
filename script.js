@@ -403,6 +403,172 @@ const blogData = [
 <p>Thanks for reading.</p>
 `
     },
+      {
+        id: 6,
+        title: "Brain Without Body",
+        category: "Consciousness",
+        image: "./images/brain.jpg",
+        excerpt: "If a human brain could survive without a body, what would consciousness actually feel like? A thought experiment exploring awareness, isolation, identity, and the frightening possibility of a mind trapped within itself.",
+        content:`
+<p>There is an idea that appears in many science fiction movies. A person's body dies, but scientists somehow manage to keep the brain alive. The brain is placed inside a container filled with a special fluid, connected to machines that continuously supply oxygen and nutrients. The body is gone, yet the brain continues to function.</p>
+
+<p>Whenever I see this idea, one question always comes to my mind.</p>
+
+<h2>What would it actually feel like to be that brain?</h2>
+
+<p>Not from the perspective of the scientists standing outside the glass.</p>
+
+<p>From the perspective of the brain itself.</p>
+
+<p>Before thinking about this, I want you to do something.</p>
+
+<p>Close your eyes for a minute.</p>
+
+<p>Now imagine that your entire body has become completely paralyzed. But don't imagine the kind of paralysis where you can still feel your arms or legs. Imagine something much stranger. Imagine that you cannot feel your body at all. It isn't numb. It simply doesn't exist in your experience anymore. You don't know where your hands are. You don't know whether your legs are straight or bent. You cannot feel your heartbeat, your breathing, or even the weight of your own body.</p>
+
+<p>Now imagine that someone covers your eyes, not with a blindfold, but with absolute darkness. No light reaches you. Then imagine that your ears stop working. There is no sound. No voices. No footsteps. No wind. No heartbeat. Complete silence.</p>
+
+<p>You cannot speak.</p>
+
+<p>You cannot move.</p>
+
+<p>You cannot hear yourself.</p>
+
+<p>You cannot even confirm whether your eyes are open or closed.</p>
+
+<p>Now imagine staying in this state, not for five minutes, but for months.</p>
+
+<p>What exactly are you experiencing?</p>
+
+<p>At first, the answer seems simple.</p>
+
+<p><em>"My thoughts."</em></p>
+
+<p>But if you think about it for a little longer, the question becomes much more disturbing.</p>
+
+<p>Your thoughts are no longer about the world around you because there is no world around you anymore—at least not one you can experience. Every piece of information that once entered your brain has disappeared. Your eyes are no longer telling you what exists. Your ears are no longer proving that anything is happening outside. Your skin is no longer reminding you that you even have a body.</p>
+
+<p>The only thing left is the mind talking to itself.</p>
+
+<h2>Now imagine that this isn't an experiment.</h2>
+
+<p>Imagine this is your reality.</p>
+
+<p>You don't know that scientists preserved your brain.</p>
+
+<p>You don't know that your body died.</p>
+
+<p>In fact, how could you know?</p>
+
+<p>Everything you have ever known about reality came through your senses. If those senses disappear completely, then the brain has no way of knowing what happened. It doesn't receive a message saying, "Your body is gone." It only notices that the world has suddenly fallen silent.</p>
+
+<p>You wake up.</p>
+
+<p>There is nothing.</p>
+
+<p>You ask yourself, "Where am I?"</p>
+
+<p>No answer.</p>
+
+<p>You wait.</p>
+
+<p>Nothing changes.</p>
+
+<p>You wonder if someone is coming.</p>
+
+<p>Nothing.</p>
+
+<p>You begin to question whether you're asleep.</p>
+
+<p>Whether you're dreaming.</p>
+
+<p>Whether you're dead.</p>
+
+<p>Whether you ever had a body at all.</p>
+
+<p>Every question disappears into the same endless silence.</p>
+
+<p>We often think that consciousness is enough. That as long as we can think, we are alive.</p>
+
+<p>But maybe consciousness without the outside world isn't freedom.</p>
+
+<p>Maybe it is the greatest prison imaginable.</p>
+
+<p>A prison with no walls because there is nowhere to walk.</p>
+
+<p>No darkness because there may not even be vision anymore.</p>
+
+<p>No silence because there is no sound to compare it with.</p>
+
+<p>Only awareness, trapped inside itself.</p>
+
+<h2>What Happens When the Brain Has Nothing to Sense?</h2>
+
+<p>Something strange happens when the brain receives no information.</p>
+
+<p>We already know from sensory deprivation experiments that the brain begins creating experiences of its own. People locked in complete isolation sometimes hear voices, see lights, or experience things that never happened. The brain seems unable to tolerate having no input, so it starts generating its own reality.</p>
+
+<p>If a preserved brain remained conscious long enough, would it begin creating entire worlds from memory?</p>
+
+<p>Would it relive childhood over and over again?</p>
+
+<p>Would it invent conversations with people who no longer exist?</p>
+
+<p>Would it slowly lose the ability to distinguish memory from imagination?</p>
+
+<p>Or would it simply remain alone with a single thought echoing forever?</p>
+
+<p>No one knows.</p>
+
+<h2>The Question That Disturbs Me Even More</h2>
+
+<p>There is another question that disturbs me even more.</p>
+
+<p>How long would it take before you forgot what it felt like to have a body?</p>
+
+<p>Right now, without looking, you know where your hands are. You know your feet are touching the ground. You know what breathing feels like. You know what blinking feels like.</p>
+
+<p>But if years passed without any of those sensations, would your brain still remember them?</p>
+
+<p>Or would the very idea of having a body slowly fade away?</p>
+
+<p>If that happened, what would the word "I" even mean?</p>
+
+<p>Perhaps the most frightening part is that there is no escape.</p>
+
+<p>A prisoner can dream of freedom.</p>
+
+<p>Someone lost in the ocean can hope for rescue.</p>
+
+<p>But a conscious brain with no body has no actions left.</p>
+
+<p>It cannot scream.</p>
+
+<p>It cannot cry.</p>
+
+<p>It cannot move.</p>
+
+<p>It cannot even prove to anyone that it is still there.</p>
+
+<p>Its entire existence is reduced to one endless sentence:</p>
+
+<p><strong>"I am thinking."</strong></p>
+
+<p>Nothing more.</p>
+
+<h2>Final Thought</h2>
+
+<p>Maybe this could never happen. Maybe a brain without a body could never remain conscious. Maybe consciousness itself requires the constant conversation between the brain and the body. Neuroscience doesn't yet know the answer.</p>
+
+<p>But if it were possible, I don't think it would feel like immortality.</p>
+
+<p>I think it would feel like existing in a place where time has no meaning, space has no meaning, and reality has disappeared.</p>
+
+<p>Not because the universe ended.</p>
+
+<p>But because your only window to the universe closed forever.</p>
+`
+    },
     //     {
     //     id: 5,
     //     title: "Understanding CSS Grid",
