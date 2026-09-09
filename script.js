@@ -52,7 +52,7 @@ const blogData = [
 
 <p>If we truly research this issue, we'll realize that this isn't just a personal problem-it's a societal one.</p>
 
-<p><strong>Thanks for reading.</strong></p>
+<p><strong>Thanks for reading.(Dated- 15 june 2025)</strong></p>
 `
     },
     {
@@ -101,7 +101,7 @@ const blogData = [
 
 <p>So whatever you do in your life – be happy and be bold ,don’t be much conscious of what other think of you, just live freely. Because if your mental health is disturbed it will affect your physical health which will spoil your life.</p>
 
-<p>Thank you for reading.</p>
+<p>Thank you for reading.(Dated- 5 may 2025)</p>
 `
     },
     {
@@ -188,7 +188,7 @@ const blogData = [
 
 <p>And I haven’t even talked about quantum computers, LHC, lithography, neuroscience yet. We should respect these things while we are using them, because their is a immense amount of effort which humanity have given to make these things possible. And even to perfect a single technology scientists and researchers give their whole life to it. So What do you think about these things.</p>
 
-<p>Thank you for reading.</p>
+<p>Thank you for reading.(dated- 12 aug 2025)</p>
 `
     },
     {
@@ -358,7 +358,7 @@ const blogData = [
 
 <p>My personal view is that, instead of focusing on worshipping a creator whom we do not fully understand, we should focus on making life better for the conscious beings around us. If there is anything truly within our control, it is our ability to reduce suffering and increase kindness in this imperfect world. Because they are also like you same universe, similar problems and it is what it is. </p>
 
-<p>I also think that the idea of God and religion may have emerged, at least in part, to give people inner peace, a sense of purpose, and a moral framework. For many, faith provides hope during difficult times and encourages ethical behaviour. Whether God exists or not is a separate question, but the values that many religions promote-such as compassion, honesty, and helping others-can still make society better.But as of now religions are dividing people instead of binding them.</p>
+<p>I also think that the idea of God and religion may have emerged, at least in part, to give people inner peace, a sense of purpose, and a moral framework. For many, faith provides hope during difficult times and encourages ethical behaviour. Whether God exists or not is a separate question, but the values that many religions promote-such as compassion, honesty, and helping others-can still make society better.But as of now religions are dividing people instead of binding them.(dated- 8 sept 2025)</p>
 `
     },
       {
@@ -400,7 +400,7 @@ const blogData = [
 
 <p>In the end, first we made machines that can think like humans (AI), and now we are trying to connect machines directly with the human brain. If both things combine, then in the future, we might not even know whether our thoughts are truly ours or influenced by machines.</p>
 
-<p>Thanks for reading.</p>
+<p>Thanks for reading.(5 oct 2025)</p>
 `
     },
       {
@@ -566,7 +566,7 @@ const blogData = [
 
 <p>Not because the universe ended.</p>
 
-<p>But because your only window to the universe closed forever.</p>
+<p>But because your only window to the universe closed forever.(dated- 4 jan 2026)</p>
 `
     },
     //     {
