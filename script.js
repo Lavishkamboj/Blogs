@@ -575,7 +575,484 @@ const blogData = [
         category: "Consciousness",
         image: "./images/brain1.jpg",
        excerpt: "Can human behaviour ever be completely controlled or predicted? This article explores how environment, culture, social media, and the things we celebrate can influence the direction of an entire generation.",
-     content: ` <h2>First questioning whether we can control human behaviour or not:</h2> <p>At first, I thought human behaviour might be something that could eventually be understood completely.</p> <p>Maybe if we study the brain enough, understand psychology, understand genetics, and understand the environment in which a person grows up, we could eventually predict what that person would become.</p> <p>But then I started thinking about children.</p> <p>I myself have seen two children who are born into the same family.</p> <p>They can have:</p> <ul> <li>the same parents</li> <li>the same house</li> <li>the same school</li> <li>the same food</li> <li>the same economic situation</li> <li>the same rules</li> <li>similar experiences</li> </ul> <p>And still, they can become completely different people.</p> <p>One may become extremely introverted.</p> <p>Another may become extremely social.</p> <p>One may become aggressive.</p> <p>Another may become extremely calm.</p> <p>One may love studying.</p> <p>Another may hate it.</p> <p>And this is when everything from birth is the same.</p> <p>Why?</p> <p>If the environment is almost the same, why aren't the results the same?</p> <p>And when even in same environment they are behaving differently even after some time of birth then how can we predict them in future when they will interact with rest of the world.</p> <p>And after thinking about this for a long time, I realised that we may never fully understand or predict how a particular brain will react because, as we know:</p> <p><strong>Human behaviour is not simply environment → behaviour.</strong></p> <p>There are many things involved.</p> <p>It is more like:</p> <p><strong>genes + brain development + temperament + experiences + memories + environment + emotions + personality + social surroundings + interpretation + goals + current mental state + learning</strong></p> <p>And probably many things we don't even fully understand yet. The billions of neuron connections.</p> <h3>The same event is not necessarily the same experience.</h3> <p>This is one of the most interesting things about the human brain.</p> <p>Imagine a teacher insults two students in front of the class.</p> <p>The external event is the same.</p> <p>But the internal experience might be completely different.</p> <p>One student might think:</p> <blockquote>"My teacher is right. I need to improve."</blockquote> <p>Another might think:</p> <blockquote>"Everyone humiliated me. I hate this teacher."</blockquote> <p>Another might think:</p> <blockquote>"This doesn't matter."</blockquote> <p>Another might start thinking about it for three days.</p> <p>Another might forget it within ten minutes.</p> <p>So even when the input is the same, the processing is different.</p> <p>And that processing itself depends on everything that happened before.</p> <p>That means a person's entire life becomes part of the way they interpret their next experience.</p> <p>A person's mind is carrying an enormous hidden history, and even if you give a child a controlled environment where you decide what they see, eat, etc., what is going on inside their mind is something you can't control.</p> <p>When I see someone sitting silently, I only see the outside.</p> <p>I don't know what is happening inside.</p> <p>That person could be thinking about:</p> <ul> <li>something that happened five years ago</li> <li>a future plan</li> <li>an argument</li> <li>a person they miss</li> <li>a movie they watched yesterday</li> <li>a fictional scenario</li> <li>money</li> <li>death</li> <li>their career</li> <li>an embarrassing moment</li> <li>a scientific problem</li> <li>nothing at all</li> <li>or ten completely unrelated things at the same time</li> </ul> <p>One person may constantly have an internal dialogue.</p> <p>Another may barely experience thoughts in the same form.</p> <p>One person may fight with their own thoughts.</p> <p>Another may simply observe them.</p> <p>One may become disturbed by a thought.</p> <p>Another may find the same thought entertaining.</p> <p>One may imagine becoming extremely successful.</p> <p>Another may imagine a completely different life.</p> <p>One may be developing a different state of mind by observing that we are like nothing here in this universe, which does not care about us whatsoever.</p> <p>We cannot directly see this internal world.</p> <p>And this makes predicting human behaviour incredibly difficult.</p> <h2>Every decision has a history behind it</h2> <p>Suppose tomorrow someone makes a decision.</p> <p>From the outside, it might look like:</p> <blockquote>"Why did he suddenly choose this?"</blockquote> <p>But there may be thousands of invisible factors behind it.</p> <p>Maybe something happened when he was a child.</p> <p>Maybe he remembered something.</p> <p>Maybe he had a conversation yesterday.</p> <p>Maybe he watched something.</p> <p>Maybe he was already stressed.</p> <p>Maybe he had been thinking about the decision for months.</p> <p>Maybe one tiny event changed his interpretation.</p> <p>Maybe he simply has a different personality.</p> <p>So a decision that appears to be a single event may actually be the result of years of accumulated information being processed by a complicated biological system.</p> <p>That made me question whether we can ever completely understand human behaviour.</p> <h2>Humans are not like simple machines</h2> <h3>My weather analogy</h3> <p>I started thinking about this using an analogy.</p> <p>We can know today's temperature.</p> <p>We can know today's pressure, humidity, wind, and other conditions.</p> <p>But that doesn't mean we can perfectly know what the weather will be three months from now.</p> <p>Human behaviour can be even more complicated.</p> <p>Because humans don't just respond to their environment.</p> <p>They learn from it.</p> <p>They predict the future.</p> <p>They remember the past.</p> <p>They change their goals.</p> <p>They change their behaviour.</p> <p>They change their environment.</p> <p>And then the changed environment changes them again.</p> <p>So even if we understand many individual mechanisms of human behaviour, that doesn't mean we can predict exactly what one person will do years later.</p> <h2>This is where my original idea about controlling humans started breaking</h2> <p>I initially thought:</p> <p><strong>What if we could control the environment of a child from birth?</strong></p> <p>Suppose we controlled:</p> <ul> <li>what they see</li> <li>what they read</li> <li>what they learn</li> <li>who they interact with</li> <li>what they are rewarded for</li> <li>what society respects</li> <li>what careers they are exposed to</li> <li>what entertainment they consume</li> </ul> <p>Could we manufacture the person we want?</p> <p>At first, this sounds possible.</p> <p>But then I realized the problem.</p> <p>Even children raised in the same environment can become very different.</p> <p>So controlling the environment does not mean controlling the individual.</p> <p>At most, we can probably change probabilities.</p> <p>We can make some behaviours more likely.</p> <p>We cannot guarantee that every individual will respond identically.</p> <p>And so I concluded that it's a devastating waste to try to control a human brain, and trying to control the whole population by learning about behaviour can't guarantee anything. It can even backfire.</p> <p>And honestly, this unpredictability might be one of the most valuable things about humanity.</p> <h2>The idea to change the direction of thinking of all society</h2> <p>Then I thought about society as a whole.</p> <p>If we can't control every individual, maybe we don't need to.</p> <p>Maybe we only need to change the direction of the thinking.</p> <p>This is where my idea about scientists being influencers came from.</p> <p>Look at today's world.</p> <p>A child opens social media.</p> <p>They repeatedly see:</p> <ul> <li>influencers becoming famous</li> <li>people getting millions of views</li> <li>luxury lifestyles</li> <li>expensive cars</li> <li>celebrities</li> <li>viral videos</li> <li>entertainment</li> <li>people gaining followers</li> </ul> <p>And the child continuously receives one message:</p> <p><strong>Attention = success.</strong></p> <p><strong>Fame = success.</strong></p> <p><strong>Money = success.</strong></p> <p><strong>Being an influencer = success.</strong></p> <p>I'm not saying every child will think this way.</p> <p>But if a child sees something thousands of times, it obviously has the potential to influence what they consider normal, desirable, and successful. And they will definitely think in that direction, put their mental energy there, and their perception of things will change.</p> <p>So I asked myself:</p> <p><strong>What if we changed the signal?</strong></p> <p>What if the people receiving millions of views weren't only entertainers and influencers?</p> <p>What if scientists, engineers, researchers, and inventors became influencers?</p> <p>Imagine a child opening their phone and seeing:</p> <blockquote>"17-year-old researcher develops a new medical technology."</blockquote> <p>Millions of views.</p> <p>Then:</p> <blockquote>"Engineer builds a new energy system."</blockquote> <p>Millions of views.</p> <p>Then:</p> <blockquote>"Scientist discovers something nobody knew before."</blockquote> <p>Millions of views.</p> <p>Then:</p> <blockquote>"Indian researcher develops a cheap diagnostic device."</blockquote> <p>Millions of views.</p> <p>And these people aren't presented as boring people sitting inside laboratories.</p> <p>They become cultural heroes.</p> <p>They are interviewed.</p> <p>Children know their names.</p> <p>People follow their work.</p> <p>They become respected.</p> <p>They earn good money.</p> <p>Their achievements are celebrated.</p> <p>Their lifestyles become aspirational.</p> <p>Now imagine a child growing up in this environment.</p> <p>Their mental model of success could become:</p> <blockquote>"Discovering something is cool."</blockquote> <blockquote>"Building something is cool."</blockquote> <blockquote>"Being intelligent is cool."</blockquote> <blockquote>"Solving difficult problems is cool."</blockquote> <blockquote>"Research is prestigious."</blockquote> <blockquote>"Engineering is exciting."</blockquote> <p>Instead of:</p> <blockquote>"I want to become famous."</blockquote> <p>The child might start thinking:</p> <blockquote>"I want to become famous by discovering something."</blockquote> <p>And that is a completely different direction.</p> <p>And the interesting part is that they will enjoy this thing too, like we do unnecessary things today, because for them the definition of dopamine became different.</p> <h2>I don't mean that dopamine itself would change</h2> <p>When I say the "definition of dopamine" would change, I don't mean that dopamine itself would become a different chemical.</p> <p>The underlying reward system would remain.</p> <p>What could change is what the brain learns to associate with reward, status, and achievement.</p> <p>If a child repeatedly sees:</p> <p><strong>short video → views → fame → money → admiration</strong></p> <p>then those things can become strongly associated with success.</p> <p>But imagine another environment:</p> <p><strong>research → discovery → recognition → admiration → money → status</strong></p> <p>Now the child can learn a different association.</p> <p>It could become:</p> <blockquote>"I want to make something that people respect."</blockquote> <p>The brain's reward mechanisms haven't been replaced.</p> <p>The learned target has changed.</p> <h2>The magnetic-field analogy</h2> <p>This is the analogy that came to my mind.</p> <p>Imagine atoms in a material.</p> <p>You don't necessarily force every atom to point in exactly the same direction.</p> <p>Instead, you apply a magnetic field.</p> <p>The field influences their orientation.</p> <p>Not every atom behaves identically.</p> <p>But the overall distribution changes. The overall field of view changes.</p> <p>I think culture can work somewhat like that.</p> <p>Because what the child sees, that's where the mind starts to think and align itself.</p> <p>There is no rocket science in it, but it affects the working of the brain very much, because then a person starts enjoying that thing. He/she starts to get dopamine by doing that thing, like we do by watching reels, movies, and all.</p> <p>And I am not saying it for us. I am saying it for the newer generation, because they have fresh minds.</p> <p>We don't need to program every human.</p> <p>We need to change the field:</p> <ul> <li>what receives attention</li> <li>what receives money</li> <li>what receives respect</li> <li>what receives fame</li> <li>what children see</li> <li>what society celebrates</li> <li>what careers appear attractive</li> </ul> <p>And then the statistical direction of the population can change.</p> <p>Not perfectly.</p> <p>Not completely.</p> <p>But potentially significantly.</p> <p>And maybe, by reading it, you don't feel that deep, but it will change the thinking of society dramatically.</p> <p>And the same type of thing is being done in China. They have controlled social media, where they know what the children are watching and how much they are watching. That influences which direction those minds will think in the future.</p> <p>They use posters of scientists and engineers as influencers.</p> <p>And so they know which direction their generation's mental capacity will probably go in, and therefore, where the country will go.</p> <p>And what I think is that our government should also have a body which knows what content affects the human brain in which way and what the right direction is. And which way will benefit humanity more.</p> <p>I am not saying to snatch freedom from people. Freedom is intact; everyone has freedom. But the country should know what it is producing, and it will only be possible if it knows what the country is consuming, what perception the people have, and what the definition of dopamine, fun, and luxury is in the minds of people.</p> <p>Maybe I am wrong in some areas, but it's not all wrong. This thing needs more research and time.</p> <p>Because in the end, a country's future is not built only by its roads, factories, technology, or weapons.</p> <p>It is built inside the minds of its people.</p> <p>What a generation finds exciting, what it considers successful, what it chooses to learn, what it dreams about, and what it spends its time doing will eventually decide what that generation builds.</p> <p>If millions of young minds are constantly pushed toward consumption, attention, fame, and instant gratification, then that will shape the kind of society we become.</p> <p>But if millions of young minds are pushed toward curiosity, discovery, engineering, science, creativity, and solving problems, then the direction of society can change.</p> <p>We don't have to control every individual.</p> <p>We only need to make the right things worth looking at.</p> <p>Because the strongest influence on a person's future may not be what we force them to do, but what we repeatedly make them want to do.</p> <p>And if we can understand that influence, then we are not just shaping individuals.</p> <p>We are shaping generations.</p> <p>And generations shape countries.</p> <p>Countries shape the future.</p> <p>So may be we cant answer:-</p> <p><strong>"How do we control human behaviour as of now?"</strong></p> <p>But we can influence our generation by questioning:</p> <p><strong>"What kind of behaviour do we want our society to naturally grow toward ?"</strong></p> <p>Because Innovative minds build strong nations. Strong nations attract wealth. Wealth creates opportunity. Opportunity improves the quality of life-and when people have the freedom to thrive, happiness follows.</p> `
+ 
+content: `
+<h2>First questioning whether we can control human behaviour or not:</h2>
+
+<p>At first, I thought human behaviour might be something that could eventually be understood completely.</p>
+
+<p>Maybe if we study the brain enough, understand psychology, understand genetics, and understand the environment in which a person grows up, we could eventually predict what that person would become.</p>
+
+<p>But then I started thinking about children.</p>
+
+<p>I myself have seen two children who are born into the same family.</p>
+
+<p>They can have:</p>
+
+<ul>
+<li>the same parents</li>
+<li>the same house</li>
+<li>the same school</li>
+<li>the same food</li>
+<li>the same economic situation</li>
+<li>the same rules</li>
+<li>similar experiences</li>
+</ul>
+
+<p>And still, they can become completely different people.</p>
+
+<p>One may become extremely introverted.</p>
+
+<p>Another may become extremely social.</p>
+
+<p>One may become aggressive.</p>
+
+<p>Another may become extremely calm.</p>
+
+<p>One may love studying.</p>
+
+<p>Another may hate it.</p>
+
+<p>And this is when everything from birth is the same.</p>
+
+<p>Why?</p>
+
+<p>If the environment is almost the same, why aren't the results the same?</p>
+
+<p>And when even in same environment they are behaving differently even after some time of birth then how can we predict them in future when they will interact with rest of the world.</p>
+
+<p>And after thinking about this for a long time, I realised that we may never fully understand or predict how a particular brain will react because, as we know:</p>
+
+<p><strong>Human behaviour is not simply environment → behaviour.</strong></p>
+
+<p>There are many things involved.</p>
+
+<p>It is more like:</p>
+
+<p><strong>genes + brain development + temperament + experiences + memories + environment + emotions + personality + social surroundings + interpretation + goals + current mental state + learning</strong></p>
+
+<p>And probably many things we don't even fully understand yet. The billions of neuron connections.</p>
+
+<h3>The same event is not necessarily the same experience.</h3>
+
+<p>This is one of the most interesting things about the human brain.</p>
+
+<p>Imagine a teacher insults two students in front of the class.</p>
+
+<p>The external event is the same.</p>
+
+<p>But the internal experience might be completely different.</p>
+
+<p>One student might think:</p>
+
+<blockquote>"My teacher is right. I need to improve."</blockquote>
+
+<p>Another might think:</p>
+
+<blockquote>"Everyone humiliated me. I hate this teacher."</blockquote>
+
+<p>Another might think:</p>
+
+<blockquote>"This doesn't matter."</blockquote>
+
+<p>Another might start thinking about it for three days.</p>
+
+<p>Another might forget it within ten minutes.</p>
+
+<p>So even when the input is the same, the processing is different.</p>
+
+<p>And that processing itself depends on everything that happened before.</p>
+
+<p>That means a person's entire life becomes part of the way they interpret their next experience.</p>
+
+<p>A person's mind is carrying an enormous hidden history, and even if you give a child a controlled environment where you decide what they see, eat, etc., what is going on inside their mind is something you can't control.</p>
+
+<p>When I see someone sitting silently, I only see the outside.</p>
+
+<p>I don't know what is happening inside.</p>
+
+<p>That person could be thinking about:</p>
+
+<ul>
+<li>something that happened five years ago</li>
+<li>a future plan</li>
+<li>an argument</li>
+<li>a person they miss</li>
+<li>a movie they watched yesterday</li>
+<li>a fictional scenario</li>
+<li>money</li>
+<li>death</li>
+<li>their career</li>
+<li>an embarrassing moment</li>
+<li>a scientific problem</li>
+<li>nothing at all</li>
+<li>or ten completely unrelated things at the same time</li>
+</ul>
+
+<p>One person may constantly have an internal dialogue.</p>
+
+<p>Another may barely experience thoughts in the same form.</p>
+
+<p>One person may fight with their own thoughts.</p>
+
+<p>Another may simply observe them.</p>
+
+<p>One may become disturbed by a thought.</p>
+
+<p>Another may find the same thought entertaining.</p>
+
+<p>One may imagine becoming extremely successful.</p>
+
+<p>Another may imagine a completely different life.</p>
+
+<p>One may be developing a different state of mind by observing that we are like nothing here in this universe, which does not care about us whatsoever.</p>
+
+<p>We cannot directly see this internal world.</p>
+
+<p>And this makes predicting human behaviour incredibly difficult.</p>
+
+<h2>Every decision has a history behind it</h2>
+
+<p>Suppose tomorrow someone makes a decision.</p>
+
+<p>From the outside, it might look like:</p>
+
+<blockquote>"Why did he suddenly choose this?"</blockquote>
+
+<p>But there may be thousands of invisible factors behind it.</p>
+
+<p>Maybe something happened when he was a child.</p>
+
+<p>Maybe he remembered something.</p>
+
+<p>Maybe he had a conversation yesterday.</p>
+
+<p>Maybe he watched something.</p>
+
+<p>Maybe he was already stressed.</p>
+
+<p>Maybe he had been thinking about the decision for months.</p>
+
+<p>Maybe one tiny event changed his interpretation.</p>
+
+<p>Maybe he simply has a different personality.</p>
+
+<p>So a decision that appears to be a single event may actually be the result of years of accumulated information being processed by a complicated biological system.</p>
+
+<p>That made me question whether we can ever completely understand human behaviour.</p>
+
+<h2>Humans are not like simple machines</h2>
+
+<h3>My weather analogy</h3>
+
+<p>I started thinking about this using an analogy.</p>
+
+<p>We can know today's temperature.</p>
+
+<p>We can know today's pressure, humidity, wind, and other conditions.</p>
+
+<p>But that doesn't mean we can perfectly know what the weather will be three months from now.</p>
+
+<p>Human behaviour can be even more complicated.</p>
+
+<p>Because humans don't just respond to their environment.</p>
+
+<p>They learn from it.</p>
+
+<p>They predict the future.</p>
+
+<p>They remember the past.</p>
+
+<p>They change their goals.</p>
+
+<p>They change their behaviour.</p>
+
+<p>They change their environment.</p>
+
+<p>And then the changed environment changes them again.</p>
+
+<p>So even if we understand many individual mechanisms of human behaviour, that doesn't mean we can predict exactly what one person will do years later.</p>
+
+<h2>This is where my original idea about controlling humans started breaking</h2>
+
+<p>I initially thought:</p>
+
+<p><strong>What if we could control the environment of a child from birth?</strong></p>
+
+<p>Suppose we controlled:</p>
+
+<ul>
+<li>what they see</li>
+<li>what they read</li>
+<li>what they learn</li>
+<li>who they interact with</li>
+<li>what they are rewarded for</li>
+<li>what society respects</li>
+<li>what careers they are exposed to</li>
+<li>what entertainment they consume</li>
+</ul>
+
+<p>Could we manufacture the person we want?</p>
+
+<p>At first, this sounds possible.</p>
+
+<p>But then I realized the problem.</p>
+
+<p>Even children raised in the same environment can become very different.</p>
+
+<p>So controlling the environment does not mean controlling the individual.</p>
+
+<p>At most, we can probably change probabilities.</p>
+
+<p>We can make some behaviours more likely.</p>
+
+<p>We cannot guarantee that every individual will respond identically.</p>
+
+<p>And so I concluded that it's a devastating waste to try to control a human brain, and trying to control the whole population by learning about behaviour can't guarantee anything. It can even backfire.</p>
+
+<p>And honestly, this unpredictability might be one of the most valuable things about humanity.</p>
+
+<h2>The idea to change the direction of thinking of all society</h2>
+
+<p>Then I thought about society as a whole.</p>
+
+<p>If we can't control every individual, maybe we don't need to.</p>
+
+<p>Maybe we only need to change the direction of the thinking.</p>
+
+<p>This is where my idea about scientists being influencers came from.</p>
+
+<p>Look at today's world.</p>
+
+<p>A child opens social media.</p>
+
+<p>They repeatedly see:</p>
+
+<ul>
+<li>influencers becoming famous</li>
+<li>people getting millions of views</li>
+<li>luxury lifestyles</li>
+<li>expensive cars</li>
+<li>celebrities</li>
+<li>viral videos</li>
+<li>entertainment</li>
+<li>people gaining followers</li>
+</ul>
+
+<p>And the child continuously receives one message:</p>
+
+<p><strong>Attention = success.</strong></p>
+
+<p><strong>Fame = success.</strong></p>
+
+<p><strong>Money = success.</strong></p>
+
+<p><strong>Being an influencer = success.</strong></p>
+
+<p>I'm not saying every child will think this way.</p>
+
+<p>But if a child sees something thousands of times, it obviously has the potential to influence what they consider normal, desirable, and successful. And they will definitely think in that direction, put their mental energy there, and their perception of things will change.</p>
+
+<p>So I asked myself:</p>
+
+<p><strong>What if we changed the signal?</strong></p>
+
+<p>What if the people receiving millions of views weren't only entertainers and influencers?</p>
+
+<p>What if scientists, engineers, researchers, and inventors became influencers?</p>
+
+<p>Imagine a child opening their phone and seeing:</p>
+
+<blockquote>"17-year-old researcher develops a new medical technology."</blockquote>
+
+<p>Millions of views.</p>
+
+<p>Then:</p>
+
+<blockquote>"Engineer builds a new energy system."</blockquote>
+
+<p>Millions of views.</p>
+
+<p>Then:</p>
+
+<blockquote>"Scientist discovers something nobody knew before."</blockquote>
+
+<p>Millions of views.</p>
+
+<p>Then:</p>
+
+<blockquote>"Indian researcher develops a cheap diagnostic device."</blockquote>
+
+<p>Millions of views.</p>
+
+<p>And these people aren't presented as boring people sitting inside laboratories.</p>
+
+<p>They become cultural heroes.</p>
+
+<p>They are interviewed.</p>
+
+<p>Children know their names.</p>
+
+<p>People follow their work.</p>
+
+<p>They become respected.</p>
+
+<p>They earn good money.</p>
+
+<p>Their achievements are celebrated.</p>
+
+<p>Their lifestyles become aspirational.</p>
+
+<p>Now imagine a child growing up in this environment.</p>
+
+<p>Their mental model of success could become:</p>
+
+<blockquote>"Discovering something is cool."</blockquote>
+
+<blockquote>"Building something is cool."</blockquote>
+
+<blockquote>"Being intelligent is cool."</blockquote>
+
+<blockquote>"Solving difficult problems is cool."</blockquote>
+
+<blockquote>"Research is prestigious."</blockquote>
+
+<blockquote>"Engineering is exciting."</blockquote>
+
+<p>Instead of:</p>
+
+<blockquote>"I want to become famous."</blockquote>
+
+<p>The child might start thinking:</p>
+
+<blockquote>"I want to become famous by discovering something."</blockquote>
+
+<p>And that is a completely different direction.</p>
+
+<p>And the interesting part is that they will enjoy this thing too, like we do unnecessary things today, because for them the definition of dopamine became different.</p>
+
+<h2>I don't mean that dopamine itself would change</h2>
+
+<p>When I say the "definition of dopamine" would change, I don't mean that dopamine itself would become a different chemical.</p>
+
+<p>The underlying reward system would remain.</p>
+
+<p>What could change is what the brain learns to associate with reward, status, and achievement.</p>
+
+<p>If a child repeatedly sees:</p>
+
+<p><strong>short video → views → fame → money → admiration</strong></p>
+
+<p>then those things can become strongly associated with success.</p>
+
+<p>But imagine another environment:</p>
+
+<p><strong>research → discovery → recognition → admiration → money → status</strong></p>
+
+<p>Now the child can learn a different association.</p>
+
+<p>It could become:</p>
+
+<blockquote>"I want to make something that people respect."</blockquote>
+
+<p>The brain's reward mechanisms haven't been replaced.</p>
+
+<p>The learned target has changed.</p>
+
+<h2>The magnetic-field analogy</h2>
+
+<p>This is the analogy that came to my mind.</p>
+
+<p>Imagine atoms in a material.</p>
+
+<p>You don't necessarily force every atom to point in exactly the same direction.</p>
+
+<p>Instead, you apply a magnetic field.</p>
+
+<p>The field influences their orientation.</p>
+
+<p>Not every atom behaves identically.</p>
+
+<p>But the overall distribution changes. The overall field of view changes.</p>
+
+<p>I think culture can work somewhat like that.</p>
+
+<p>Because what the child sees, that's where the mind starts to think and align itself.</p>
+
+<p>There is no rocket science in it, but it affects the working of the brain very much, because then a person starts enjoying that thing. He/she starts to get dopamine by doing that thing, like we do by watching reels, movies, and all.</p>
+
+<p>And I am not saying it for us. I am saying it for the newer generation, because they have fresh minds.</p>
+
+<p>We don't need to program every human.</p>
+
+<p>We need to change the field:</p>
+
+<ul>
+<li>what receives attention</li>
+<li>what receives money</li>
+<li>what receives respect</li>
+<li>what receives fame</li>
+<li>what children see</li>
+<li>what society celebrates</li>
+<li>what careers appear attractive</li>
+</ul>
+
+<p>And then the statistical direction of the population can change.</p>
+
+<p>Not perfectly.</p>
+
+<p>Not completely.</p>
+
+<p>But potentially significantly.</p>
+
+<p>And maybe, by reading it, you don't feel that deep, but it will change the thinking of society dramatically.</p>
+
+<p>And the same type of thing is being done in China. They have controlled social media, where they know what the children are watching and how much they are watching. That influences which direction those minds will think in the future.</p>
+
+<p>They use posters of scientists and engineers as influencers.</p>
+
+<p>And so they know which direction their generation's mental capacity will probably go in, and therefore, where the country will go.</p>
+
+<p>And what I think is that our government should also have a body which knows what content affects the human brain in which way and what the right direction is. And which way will benefit humanity more.</p>
+
+<p>I am not saying to snatch freedom from people. Freedom is intact; everyone has freedom. But the country should know what it is producing, and it will only be possible if it knows what the country is consuming, what perception the people have, and what the definition of dopamine, fun, and luxury is in the minds of people.</p>
+
+<p>Maybe I am wrong in some areas, but it's not all wrong. This thing needs more research and time.</p>
+
+<p>Because in the end, a country's future is not built only by its roads, factories, technology, or weapons.</p>
+
+<p>It is built inside the minds of its people.</p>
+
+<p>What a generation finds exciting, what it considers successful, what it chooses to learn, what it dreams about, and what it spends its time doing will eventually decide what that generation builds.</p>
+
+<p>If millions of young minds are constantly pushed toward consumption, attention, fame, and instant gratification, then that will shape the kind of society we become.</p>
+
+<p>But if millions of young minds are pushed toward curiosity, discovery, engineering, science, creativity, and solving problems, then the direction of society can change.</p>
+
+<p>We don't have to control every individual.</p>
+
+<p>We only need to make the right things worth looking at.</p>
+
+<p>Because the strongest influence on a person's future may not be what we force them to do, but what we repeatedly make them want to do.</p>
+
+<p>And if we can understand that influence, then we are not just shaping individuals.</p>
+
+<p>We are shaping generations.</p>
+
+<p>And generations shape countries.</p>
+
+<p>Countries shape the future.</p>
+
+<p>So may be we cant answer:-</p>
+
+<p><strong>"How do we control human behaviour as of now?"</strong></p>
+
+<p>But we can influence our generation by questioning:</p>
+
+<p><strong>"What kind of behaviour do we want our society to naturally grow toward ?"</strong></p>
+
+<p>Because Innovative minds build strong nations. Strong nations attract wealth. Wealth creates opportunity. Opportunity improves the quality of life-and when people have the freedom to thrive, happiness follows.</p>
+`
 
     },
     //         {
