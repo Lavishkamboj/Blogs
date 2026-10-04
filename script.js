@@ -569,8 +569,442 @@ const blogData = [
 <p>But because your only window to the universe closed forever.(dated- 4 jan 2026)</p>
 `
     },
-       ,
-    //         {
+       
+            {
+        id: 7,
+        title: "Controlling Human Brain",
+        category: "Conciousness",
+        image: "./images/brain1.jpg",
+       excerpt: "Can human behaviour ever be completely controlled or predicted? This article explores how environment, culture, social media, and the things we celebrate can influence the direction of an entire generation.",
+       
+content: `
+<h1>Controlling the Human Brain</h1>
+
+<h2>Can we actually control human behaviour?</h2>
+
+<p>At first, I used to think that maybe human behaviour could eventually be understood completely.</p>
+
+<p>If we understood the brain, psychology, genetics, and the environment in which a person grows up, maybe one day we could predict what that person would become.</p>
+
+<p>And if we could predict it, maybe we could control it.</p>
+
+<p>If we wanted a scientist, critical thinker, researcher maybe we could create the right environment to produce that person.</p>
+
+<p>Almost like training a model. Making anyone whatever we want.</p>
+
+<p>Give it the right data, train it in the right way, and eventually it becomes what you want.</p>
+
+<p>But then I started thinking about children.</p>
+
+<p>I have seen children born into the same family who have:</p>
+
+<ul>
+<li>the same parents</li>
+<li>the same house</li>
+<li>the same school</li>
+<li>the same food</li>
+<li>similar economic conditions</li>
+<li>many of the same experiences</li>
+</ul>
+
+<p>And still, they can become completely different people.</p>
+
+<p>One can become extremely introverted while another becomes very social.</p>
+
+<p>One can love studying while another can hate it.</p>
+
+<p>One can be aggressive while another can be extremely calm.</p>
+
+<p>If the environment is almost the same, why aren't the results the same?</p>
+
+<p>And if two people can react differently to almost the same environment, how can we predict what they will become years later?</p>
+
+<p>The more I thought about it, the more I started feeling that maybe we will never completely understand or predict how a particular human brain will react.</p>
+
+<p>Human behaviour is not simply:</p>
+
+<p><strong>Environment → Behaviour</strong></p>
+
+<p>It is more like:</p>
+
+<p><strong>Genes + brain development + experiences + memories + emotions + personality + environment + interpretation + goals + learning</strong></p>
+
+<p>And probably many things we don't understand yet.</p>
+
+<h2>The same event is not the same experience</h2>
+
+<p>Imagine a teacher insults two students in front of the class.</p>
+
+<p>The external event is exactly the same.</p>
+
+<p>But what happens inside their minds can be completely different.</p>
+
+<blockquote>
+<p>"My teacher is right. I need to improve."</p>
+</blockquote>
+
+<blockquote>
+<p>"Everyone humiliated me. I hate this teacher."</p>
+</blockquote>
+
+<blockquote>
+<p>"It doesn't matter."</p>
+</blockquote>
+
+<p>One might think about it for three days.</p>
+
+<p>Another might forget it after ten minutes.</p>
+
+<p>The event was the same.</p>
+
+<p>The experience wasn't.</p>
+
+<p>This is what makes the human brain so difficult to predict.</p>
+
+<p>A person's entire past becomes part of the way they experience their next moment.</p>
+
+<p>When I see someone sitting silently, I only see the outside.</p>
+
+<p>I don't know what is happening inside.</p>
+
+<p>They could be thinking about their future, an argument, someone they miss, money, death, their career, something that happened years ago, a scientific problem, a fictional situation, or absolutely nothing.</p>
+
+<p>We cannot directly see this internal world.</p>
+
+<p>And that makes controlling a human brain extremely difficult.</p>
+
+<h2>Every decision has a history</h2>
+
+<p>Suppose tomorrow someone makes a decision.</p>
+
+<p>From the outside, it might look like:</p>
+
+<blockquote>
+<p>"Why did he suddenly choose this?"</p>
+</blockquote>
+
+<p>But maybe it wasn't sudden at all.</p>
+
+<p>Maybe something happened when he was a child.</p>
+
+<p>Maybe he remembered something.</p>
+
+<p>Maybe he had a conversation yesterday.</p>
+
+<p>Maybe he had been thinking about it for months.</p>
+
+<p>Maybe one tiny event changed his interpretation.</p>
+
+<p>What looks like one decision may actually be the result of years of information being processed by a complicated biological system.</p>
+
+<p>This made me question my original idea.</p>
+
+<p>Maybe controlling an individual human being is not really possible.</p>
+
+<p>But then another question came to my mind.</p>
+
+<p><strong>What if we don't control the individual? What if we influence the environment instead?</strong></p>
+
+<h2>What if we changed what society considers successful?</h2>
+
+<p>Look at today's world.</p>
+
+<p>A child opens social media and repeatedly sees influencers becoming famous, luxury lifestyles, expensive cars, celebrities, viral videos, and millions of followers.</p>
+
+<p>Slowly, a pattern can form:</p>
+
+<p><strong>Attention = success.</strong></p>
+
+<p><strong>Fame = success.</strong></p>
+
+<p><strong>Money = success.</strong></p>
+
+<p>I'm not saying every child will think this way.</p>
+
+<p>But if someone sees something thousands of times, it can influence what they consider normal, desirable, and successful.</p>
+
+<p>So I started wondering:</p>
+
+<p><strong>What if we changed the signal?</strong></p>
+
+<p>What if scientists, engineers, researchers, and inventors became influencers too?</p>
+
+<p>Imagine a child opening their phone and seeing:</p>
+
+<blockquote>
+<p>"17-year-old researcher develops a new medical technology."</p>
+</blockquote>
+
+<p>Millions of views.</p>
+
+<p>Then:</p>
+
+<blockquote>
+<p>"Engineer builds a new energy system."</p>
+</blockquote>
+
+<p>Millions of views.</p>
+
+<p>Then:</p>
+
+<blockquote>
+<p>"Indian researcher develops a cheap diagnostic device."</p>
+</blockquote>
+
+<p>Millions of views.</p>
+
+<p>And these people aren't presented as boring people sitting inside laboratories.</p>
+
+<p>They become cultural heroes.</p>
+
+<p>Children know their names.</p>
+
+<p>People follow their work.</p>
+
+<p>Their achievements are celebrated.</p>
+
+<p>They earn good money.</p>
+
+<p>Their lifestyles become aspirational.</p>
+
+<p>Now imagine a child growing up in this environment.</p>
+
+<p>Their idea of success could become:</p>
+
+<blockquote>
+<p>"Discovering something is cool."</p>
+</blockquote>
+
+<blockquote>
+<p>"Building something is cool."</p>
+</blockquote>
+
+<blockquote>
+<p>"Being intelligent is cool."</p>
+</blockquote>
+
+<blockquote>
+<p>"Solving difficult problems is cool."</p>
+</blockquote>
+
+<p>Instead of:</p>
+
+<blockquote>
+<p>"I want to become famous."</p>
+</blockquote>
+
+<p>They might think:</p>
+
+<blockquote>
+<p>"I want to become famous and so i will discover something."</p>
+</blockquote>
+
+<p>And that is a completely different direction. And interesting part is people will enjoy doing hard work, creating new things because for them the definition of dopamine is different ,they have seen from birth that scientists, researchers , innovators are praised, they are the heros etc.</p>
+
+<h2>I don't mean dopamine itself would change</h2>
+
+<p>When I say the "definition of dopamine" would change, I don't mean dopamine itself would become a different chemical.</p>
+
+<p>The reward system would remain the same.</p>
+
+<p>What could change is what the brain learns to associate with reward and achievement.</p>
+
+<p>Today, someone might learn:</p>
+
+<p><strong>short video → views → fame → money → admiration</strong></p>
+
+<p>But another environment could create:</p>
+
+<p><strong>research → discovery → recognition → admiration → money → status</strong></p>
+
+<p>The brain hasn't changed.</p>
+
+<p>The target has changed.</p>
+
+<p>And this is where culture becomes powerful.</p>
+
+<h2>The magnetic-field analogy</h2>
+
+<p>The closest analogy that came to my mind is a magnetic field.</p>
+
+<p>Imagine atoms inside a material.</p>
+
+<p>You don't necessarily force every atom to point in exactly the same direction.</p>
+
+<p>Instead, you apply a magnetic field.</p>
+
+<p>The field influences their orientation.</p>
+
+<p>Not every atom behaves identically, but the overall direction can change.</p>
+
+<p>I think culture can work somewhat like this.</p>
+
+<p>We don't have to program every human being individually.</p>
+
+<p>We can change the field around them:</p>
+
+<ul>
+<li>what receives attention</li>
+<li>what receives money</li>
+<li>what receives respect</li>
+<li>what receives fame</li>
+<li>what children repeatedly see</li>
+<li>what society celebrates</li>
+<li>what careers appear attractive</li>
+</ul>
+
+<p>And then the overall direction of a population can change.</p>
+
+<p>Not perfectly.</p>
+
+<p>Not completely.</p>
+
+<p>But potentially significantly.</p>
+
+<h2>This is not really about controlling people</h2>
+
+<p>At this point, I don't think the interesting question is:</p>
+
+<p><strong>"How do we control human behaviour?"</strong></p>
+
+<p>Maybe that question is too extreme.</p>
+
+<p>A better question is:</p>
+
+<p><strong>"How do we influence the direction in which human behaviour naturally develops?"</strong></p>
+
+<p>There is a huge difference between the two.</p>
+
+<p>Controlling someone means deciding what they will do.</p>
+
+<p>Influencing them means changing the conditions around them and allowing them to decide.</p>
+
+<p>And society has already been doing this for a very long time.</p>
+
+<p>We tell children which careers are respected.</p>
+
+<p>We give certain people more attention.</p>
+
+<p>We make certain lifestyles visible.</p>
+
+<p>We decide what becomes popular.</p>
+
+<p>Social media has simply made this process much more powerful.</p>
+
+<p>Now an idea can be shown to millions of people every day.</p>
+
+<h2>Where does the government fit into this?</h2>
+
+<p>This is where the idea becomes bigger than an individual.</p>
+
+<p>If a country wants to understand where its future is going, it should probably understand what its young population is consuming.</p>
+
+<p>Not just food.</p>
+
+<p>Information.</p>
+
+<p>Entertainment.</p>
+
+<p>Ideas.</p>
+
+<p>Role models.</p>
+
+<p>Aspirations.</p>
+
+<p>China is an interesting example because it has taken a much more controlled approach toward children's online content and screen time, while also heavily promoting scientists, engineers, and technological achievements. They use posters of their scientists as influncers.</p>
+
+<p>And I definitely don't think governments should control everything people watch.</p>
+
+<p>That can easily become dangerous.</p>
+
+<p>But I do think there is an important question here:</p>
+
+<p><strong>Should a country understand what kind of mental environment it is creating for its next generation?</strong></p>
+
+<p>I think yes.</p>
+
+<p>Not to remove people's freedom, but to understand what young people are consuming, what they admire, what they consider successful, and what they want to become.</p>
+
+<p>Because eventually, these things become visible in society.</p>
+
+<h2>We don't need to control every brain</h2>
+
+<p>Maybe my original idea was wrong.</p>
+
+<p>Maybe we cannot create a scientist simply by controlling a child's environment.</p>
+
+<p>Maybe we cannot completely predict what a person will become.</p>
+
+<p>Maybe we cannot even fully understand our own minds.</p>
+
+<p>But that doesn't mean we are powerless.</p>
+
+<p>We don't need to control every individual.</p>
+
+<p>We only need to influence the environment in which millions of individuals grow.</p>
+
+<p>If millions of young minds are constantly pushed toward consumption, attention, fame, and instant gratification, that will influence the kind of society we become.</p>
+
+<p>But if millions of young minds are repeatedly exposed to curiosity, discovery, engineering, science, creativity, and solving problems, the direction of society can change.</p>
+
+<p>The important word is <strong>direction</strong>.</p>
+
+<p>Not control.</p>
+
+<p>Not certainty.</p>
+
+<p><strong>Direction.</strong></p>
+
+<p>Because a country's future is not built only by its roads, factories, technology, or weapons.</p>
+
+<p>A large part of it is built inside the minds of its people.</p>
+
+<p>What a generation finds exciting.</p>
+
+<p>What it considers successful.</p>
+
+<p>What it chooses to learn.</p>
+
+<p>What it dreams about.</p>
+
+<p>What it spends its time doing.</p>
+
+<p>All of these things eventually influence what that generation builds.</p>
+
+<p>We don't have to make every person the same.</p>
+
+<p>In fact, we shouldn't.</p>
+
+<p>Human unpredictability is probably one of the most valuable things about humanity.</p>
+
+<p>So maybe we can't answer:</p>
+
+<p><strong>"How do we control human behaviour?"</strong></p>
+
+<p>But perhaps we can ask a better question:</p>
+
+<p><strong>"What kind of behaviour do we want our society to naturally grow toward?"</strong></p>
+
+<p>Because maybe the strongest influence on a person's future is not what we force them to do.</p>
+
+<p>Maybe it is what we repeatedly make them want to do.</p>
+
+<p>And if we can understand that influence, then we are not just shaping individuals.</p>
+
+<p>We are shaping generations.</p>
+
+<p>And generations shape countries.</p>
+
+<p>Countries shape the future.</p>
+
+<p>Maybe we don't need to control the human brain.</p>
+
+<p><strong>Maybe we just need to create a world that gives it better things to think about.</strong></p>
+`
+
+
+    },
+       //         {
     //     id: 5,
     //     title: "Understanding CSS Grid",
     //     category: "tech",
