@@ -579,7 +579,7 @@ const blogData = [
 content: `
 <h2>First questioning whether we can control human behaviour or not:</h2>
 
-<p>At first, I thought human behaviour might be something that could eventually be understood completely.</p>
+<p>At first, I thought human behaviour might be something that could eventually be understood completely. So that once we understand it then one can be controlled ,and once one is controlled we can create human beings of any type we wanted like if we want a scientist, doctor or whatever we can make it like training a model and making it whatever we want.</p>
 
 <p>Maybe if we study the brain enough, understand psychology, understand genetics, and understand the environment in which a person grows up, we could eventually predict what that person would become.</p>
 
